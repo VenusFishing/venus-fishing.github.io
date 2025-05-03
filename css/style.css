@@ -1069,7 +1069,7 @@ ul.step li:last-child::after {
 
 /*slideup1画像*/
 .slideup1 {
-    background-image: url("../images/bg-slideup1.jpg");	/*背景画像の読み込み*/
+    background-image: url("../images/asahi.jpg");	/*背景画像の読み込み*/
 	color: #fff;
 	border-radius: 10vw 10vw 0 0;
 }
